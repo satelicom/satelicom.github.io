@@ -1,0 +1,1 @@
+$(function(){var a=$("#js-testimonials-slider");a.length&&a.slick({arrows:!1,autoplay:!0,autoplaySpeed:5e3,dots:!0})});
